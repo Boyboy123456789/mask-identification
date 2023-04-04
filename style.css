@@ -1,0 +1,17 @@
+#bc{
+    background-color: blue;
+}
+.heading_div{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: white;
+    color: black;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
